@@ -27,5 +27,14 @@ Enter your account number and PIN in the respective fields.
 Click the "Check Balance" button to view your account balance.
 BankDapp is a simple decentralized application that allows users to create a bank account and check their account balance.
 
+## Screenshots
+![Screenshot 2025-02-14 004358](https://github.com/user-attachments/assets/af8859f1-9f91-4be5-9ef6-681586007e0b)
+
+![Screenshot 2025-02-14 004443](https://github.com/user-attachments/assets/680909ba-a88f-47ef-8abb-414970253da6)
+
+
+
+
+
 
 
