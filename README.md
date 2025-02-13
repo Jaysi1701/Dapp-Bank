@@ -33,6 +33,49 @@ BankDapp is a simple decentralized application that allows users to create a ban
 ![Screenshot 2025-02-14 004443](https://github.com/user-attachments/assets/680909ba-a88f-47ef-8abb-414970253da6)
 
 
+## Tech Stack
+
+- **Blockchain**: Ethereum (using Solidity for smart contract development)
+- **Smart Contracts**: Written in Solidity
+- **Backend**: Truffle framework (for smart contract management)
+- **Frontend**: HTML, CSS, JavaScript (interacting with the blockchain via Web3.js)
+
+## Installation
+
+### Prerequisites
+
+- Install Node.js, which is required to manage the project's dependencies.
+- Install Truffle, a framework for smart contract development.
+- Install Ganache, a personal blockchain for Ethereum development.
+
+  ### Steps to Run the Project
+
+1. **Clone the repository** to your local machine:
+    ```bash
+    git clone https://github.com/yourusername/BankDapp.git
+    ```
+2. **Navigate into the project folder**:
+    ```bash
+    cd BankDapp
+    ```
+3. **Install all necessary dependencies** using Node.js and npm (Node Package Manager):
+    ```bash
+    npm install
+    ```
+4. **Start Ganache** to run a local Ethereum blockchain for testing.
+5. **Compile the smart contracts** to prepare them for deployment:
+    ```bash
+    truffle compile
+    ```
+6. **Migrate the smart contracts** to the local Ethereum blockchain using Truffle:
+    ```bash
+    truffle migrate
+    ```
+7. **Launch the frontend** by opening the project in any HTTP server (like the Live Server extension in Visual Studio Code or another local server).
+
+
+
+
 
 
 
