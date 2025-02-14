@@ -52,11 +52,11 @@ BankDapp is a simple decentralized application that allows users to create a ban
 
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com/yourusername/BankDapp.git
+    git clone https://github.com/Jaysi1701/Dapp-Bank.git
     ```
 2. **Navigate into the project folder**:
     ```bash
-    cd BankDapp
+    cd Dapp-Bank
     ```
 3. **Install all necessary dependencies** using Node.js and npm (Node Package Manager):
     ```bash
